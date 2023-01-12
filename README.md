@@ -1,3 +1,11 @@
+#React coding challenge 
+
+I used the local server to run the json data   on   http://localhost:3001/entries  .
+
+
+The sample.Json data is not in live so I used this local server if i need to see the movies list i need to run first json - server on port 3001
+
+
 # React Coding Challenge
 
 > Welcome to the React Coding Challenge!
