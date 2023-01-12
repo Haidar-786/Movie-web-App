@@ -6,6 +6,7 @@ import '../Footer/Footer.css'
 const Footer = () => {
   return (
         <>
+        <div class="page-wrapper">
            <div className='outer-container'>
 
             <div className='container'>
@@ -46,7 +47,7 @@ const Footer = () => {
         </div>
            </div>
 
-
+</div>
         </>
   )
 }

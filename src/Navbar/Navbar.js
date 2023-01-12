@@ -8,7 +8,7 @@ const Navbar = () => {
       <span className="nav-logo">Demo Streaming</span>
       <div className={`nav-items ${isOpen && "open"}`}>
         <a href="/home">Login</a>
-        <a href="/about">Let try free trail</a>
+        <a href="/about" className="btn">Start your free trail</a>
       </div>
       <div
         className={`nav-toggle ${isOpen && "open"}`}

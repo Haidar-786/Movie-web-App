@@ -16,7 +16,7 @@
 .movies-container {
     max-width: 1200px;
     margin: 0 auto;
-    height:65%;
+    max-height:65%;
   }
   
   .loading-screen {
@@ -30,6 +30,8 @@
     font-size: 2rem;
     color: red;
     padding: 2rem 0;
+     max-height:65%;
+     margin-bottom: 15rem;
   }
   
 

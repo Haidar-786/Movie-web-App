@@ -1,14 +1,28 @@
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 20vh;
+  }
+
+
+
+
+
+
 .outer-container{
     /* display: flex; */
     /* align-items: center; */
     /* justify-content: flex-start; */
     background-color: #222;
     color: #fff;
-    height: 20%;
+    /* height: 20%; */
     position: relative;
     bottom: 0;
     width: 100%;
 }
+.page-wrapper > * {
+    flex-grow: 1;
+  }
 
 .outer-text  {
    padding: 2rem  2rem 0 2rem;
