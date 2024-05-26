@@ -11,11 +11,11 @@
     font-weight: 700;
     font-size: 21px;
     margin : 15px 80px  ;
-    color: #ffffff;
+    color: 'red';
   }
   
   .Navbar > .nav-items > a {
-    color: #ffffff;
+    color: 'pink';
     font-size: 16px;
     text-decoration: none;
     margin: 15px 65px 15px 0 ;
